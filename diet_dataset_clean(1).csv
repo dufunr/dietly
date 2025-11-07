@@ -1,0 +1,198 @@
+age,gender,activity_level,goal,preferred_cuisine,dietary_restrictions,meals_per_day,budget_level,recommended_diet
+22,Female,Moderate,Weight Loss,Indian,Gluten-Free,3,Medium,Low Carb
+30,Male,High,Muscle Gain,Asian,None,2,High,High Protein
+32,Female,Low,Diabetes Management,Indian,None,3,Low,Diabetic-Friendly
+28,Male,Moderate,Maintenance,Asian,None,3,Medium,Balanced
+19,Female,Low,PCOS Management,Any,None,3,Medium,PCOS-Friendly
+23,Male,High,Muscle Gain,Vegan,None,3,High,Bodybuilder
+30,Female,Low,Endurance,Mediterranean,None,3,Medium,Zone Diet
+20,Male,Low,Endurance,Indian,None,3,Medium,Zone Diet
+29,Female,High,Weight Loss,Any,Gluten-Free,3,Medium,Keto
+33,Male,Moderate,Muscle Gain,Indian,None,2,High,Weight Gain
+21,Female,High,Maintenance,Asian,None,3,Medium,Flexitarian
+38,Male,Low,Endurance,Indian,None,3,Low,Balanced
+32,Female,Low,Endurance,Any,None,3,Medium,Endurance Athlete
+23,Male,High,Muscle Gain,Vegan,None,3,High,High Protein
+31,Female,Moderate,Weight Loss,Any,Gluten-Free,3,Medium,Intermittent Fasting
+38,Male,Low,Diabetes Management,Indian,None,3,Low,Diabetic-Friendly
+37,Female,Moderate,PCOS Management,Mediterranean,None,3,Medium,PCOS-Friendly
+22,Male,High,Muscle Gain,Any,None,2,High,Weight Gain
+27,Female,Low,Fat Loss,Indian,Gluten-Free,3,Low,Fat Loss
+33,Male,Moderate,Endurance,Indian,None,3,Medium,Zone Diet
+22,Female,High,Maintenance,Asian,None,3,Medium,Whole30
+33,Male,Moderate,Muscle Gain,Vegan,None,2,High,High Protein
+33,Female,Low,Weight Loss,Mediterranean,None,3,Medium,Keto
+32,Male,Moderate,Maintenance,Asian,None,3,Medium,Whole30
+28,Female,Low,Maintenance,Indian,Gluten-Free,3,Low,Whole30
+39,Male,Moderate,Endurance,Any,None,3,Medium,Zone Diet
+33,Female,Low,Diabetes Management,Indian,None,3,Low,Diabetic-Friendly
+23,Male,High,Muscle Gain,Vegan,None,3,High,Bodybuilder
+31,Female,Moderate,Weight Loss,Mediterranean,Gluten-Free,3,Medium,Intermittent Fasting
+29,Male,High,Muscle Gain,Indian,None,2,High,Bodybuilder
+31,Female,Low,PCOS Management,Indian,None,3,Medium,PCOS-Friendly
+38,Male,Moderate,Endurance,Mediterranean,None,3,Medium,Endurance Athlete
+23,Female,High,Maintenance,Asian,None,3,Medium,Whole30
+32,Male,Moderate,Maintenance,Any,None,3,Medium,Balanced
+37,Female,Low,Fat Loss,Indian,Gluten-Free,3,Low,Paleo
+28,Male,High,Muscle Gain,Vegan,None,3,High,Bodybuilder
+30,Female,Moderate,Weight Loss,Indian,None,3,Medium,Fat Loss
+32,Male,Low,Diabetes Management,Indian,None,3,Low,Diabetic-Friendly
+23,Female,High,Maintenance,Mediterranean,None,3,Medium,Flexitarian
+39,Male,Moderate,Endurance,Indian,None,3,Medium,Zone Diet
+32,Female,Low,Endurance,Any,None,3,Medium,Zone Diet
+33,Male,High,Muscle Gain,Vegan,None,2,High,Bodybuilder
+22,Female,Moderate,Weight Loss,Indian,Gluten-Free,3,Medium,Intermittent Fasting
+37,Male,High,Muscle Gain,Any,None,3,High,High Protein
+33,Female,Low,PCOS Management,Indian,None,3,Medium,PCOS-Friendly
+28,Male,Moderate,Endurance,Mediterranean,None,3,Medium,Endurance Athlete
+23,Female,High,Maintenance,Asian,None,3,Medium,Balanced
+38,Male,Low,Diabetes Management,Indian,None,3,Low,Diabetic-Friendly
+31,Female,Moderate,Maintenance,Any,None,3,Medium,Whole30
+22,Female,Moderate,Weight Loss,Indian,None,3,Medium,Fat Loss
+28,Male,High,Muscle Gain,Any,None,3,High,High Protein
+32,Female,Low,Diabetes Management,Indian,Nut-Free,3,Medium,Diabetic-Friendly
+30,Male,Moderate,Weight Loss,Indian,None,3,Medium,Fat Loss
+23,Female,High,Muscle Gain,Indian,None,3,High,High Protein
+30,Male,Low,Endurance,Indian,Lactose-Free,3,Medium,Balanced
+23,Female,High,Maintenance,Asian,None,3,High,Whole30
+33,Male,Moderate,Weight Loss,Mediterranean,None,3,Medium,Intermittent Fasting
+29,Female,High,PCOS Management,Indian,Nut-Free,3,Medium,PCOS-Friendly
+20,Male,Low,Endurance,Indian,None,3,Medium,Zone Diet
+27,Female,Moderate,Weight Loss,Any,None,3,Medium,Low Carb
+32,Male,High,Muscle Gain,Indian,None,3,High,High Protein
+31,Female,Low,Fat Loss,Indian,Nut-Free,3,Medium,Mediterranean
+23,Male,High,Muscle Gain,Indian,None,3,High,Weight Gain
+38,Female,Moderate,Weight Loss,Indian,None,3,Medium,Fat Loss
+32,Male,Low,Endurance,Any,None,3,Medium,Balanced
+33,Female,High,Maintenance,Mediterranean,None,3,High,Balanced
+22,Male,High,Muscle Gain,Indian,None,3,High,Bodybuilder
+33,Female,Moderate,Diabetes Management,Indian,Nut-Free,3,Medium,Diabetic-Friendly
+29,Male,Low,Weight Loss,Indian,None,3,Medium,Fat Loss
+37,Female,High,PCOS Management,Indian,Nut-Free,3,Medium,PCOS-Friendly
+31,Male,Moderate,Endurance,Mediterranean,None,3,Medium,Endurance Athlete
+33,Female,Low,Weight Loss,Indian,None,3,Medium,Low Carb
+23,Male,High,Muscle Gain,Indian,None,3,High,Bodybuilder
+38,Female,Moderate,Diabetes Management,Indian,Nut-Free,3,Medium,Diabetic-Friendly
+30,Male,Low,Endurance,Any,None,3,Medium,Endurance Athlete
+27,Female,High,Maintenance,Mediterranean,None,3,High,Whole30
+33,Male,Moderate,Endurance,Indian,Lactose-Free,3,Medium,Balanced
+32,Female,Low,Fat Loss,Indian,Nut-Free,3,Medium,Fat Loss
+32,Male,High,Muscle Gain,Indian,None,3,High,High Protein
+23,Female,Moderate,Weight Loss,Any,None,3,Medium,Detox
+39,Male,Low,Endurance,Indian,None,3,Medium,Zone Diet
+31,Female,High,PCOS Management,Indian,Nut-Free,3,Medium,PCOS-Friendly
+28,Male,Moderate,Muscle Gain,Any,None,3,High,Weight Gain
+23,Female,High,Maintenance,Mediterranean,None,3,High,Whole30
+33,Male,Low,Endurance,Indian,None,3,Medium,Endurance Athlete
+29,Female,Moderate,Weight Loss,Indian,None,3,Medium,Low Carb
+38,Male,High,Muscle Gain,Indian,None,3,High,Weight Gain
+31,Female,Low,Fat Loss,Indian,Nut-Free,3,Medium,Paleo
+27,Male,High,Muscle Gain,Asian,None,3,High,High Protein
+22,Female,Moderate,Weight Loss,Mediterranean,None,3,Medium,Fat Loss
+33,Male,Low,Endurance,Indian,Lactose-Free,3,Medium,Zone Diet
+22,Female,High,PCOS Management,Indian,Nut-Free,3,Medium,PCOS-Friendly
+33,Male,Moderate,Muscle Gain,Any,None,3,High,High Protein
+30,Female,Low,Diabetes Management,Indian,Nut-Free,3,Medium,Diabetic-Friendly
+31,Male,High,Maintenance,Indian,None,3,High,Flexitarian
+28,Female,Moderate,Weight Loss,Indian,None,3,Medium,Keto
+32,Male,Low,Endurance,Indian,Lactose-Free,3,Medium,Balanced
+30,Female,High,PCOS Management,Indian,Nut-Free,3,Medium,PCOS-Friendly
+39,Male,Moderate,Muscle Gain,Mediterranean,None,3,High,Weight Gain
+24,Female,Moderate,Weight Loss,Indian,None,3,Medium,Low Carb
+35,Male,High,Muscle Gain,Indian,None,3,High,Bodybuilder
+29,Female,Low,Diabetes Management,Indian,Nut-Free,3,Low,Diabetic-Friendly
+26,Male,Moderate,Endurance,Mediterranean,None,3,Medium,Endurance Athlete
+21,Female,High,Maintenance,Asian,None,3,High,Balanced
+34,Male,Low,Weight Loss,Indian,Gluten-Free,3,Medium,Fat Loss
+25,Female,Moderate,PCOS Management,Indian,None,3,Medium,PCOS-Friendly
+36,Male,High,Muscle Gain,Any,None,2,High,High Protein
+27,Female,Low,Fat Loss,Mediterranean,None,3,Low,Paleo
+31,Male,Moderate,Maintenance,Indian,None,3,Medium,Flexitarian
+24,Female,High,Weight Loss,Any,Gluten-Free,3,Medium,Keto
+33,Male,Low,Endurance,Indian,Lactose-Free,3,Medium,Zone Diet
+28,Female,Moderate,Diabetes Management,Indian,Nut-Free,3,Medium,Diabetic-Friendly
+22,Male,High,Muscle Gain,Vegan,None,3,High,Bodybuilder
+30,Female,Low,PCOS Management,Indian,Nut-Free,3,Medium,PCOS-Friendly
+35,Male,Moderate,Endurance,Any,None,3,Medium,Balanced
+26,Female,High,Maintenance,Mediterranean,None,3,High,Whole30
+32,Male,Low,Weight Loss,Indian,None,3,Low,Intermittent Fasting
+29,Female,Moderate,Fat Loss,Indian,Gluten-Free,3,Medium,Fat Loss
+37,Male,High,Muscle Gain,Asian,None,3,High,Weight Gain
+23,Female,Low,Endurance,Indian,None,3,Medium,Endurance Athlete
+31,Male,Moderate,Maintenance,Any,None,3,Medium,Balanced
+25,Female,High,Weight Loss,Mediterranean,None,3,Medium,Fat Loss
+34,Male,Low,Diabetes Management,Indian,None,3,Low,Diabetic-Friendly
+28,Female,Moderate,PCOS Management,Indian,Nut-Free,3,Medium,PCOS-Friendly
+33,Male,High,Muscle Gain,Indian,None,2,High,High Protein
+21,Female,Low,Fat Loss,Indian,Gluten-Free,3,Low,Paleo
+36,Male,Moderate,Endurance,Mediterranean,None,3,Medium,Zone Diet
+24,Female,High,Maintenance,Asian,None,3,High,Flexitarian
+30,Male,Low,Weight Loss,Indian,None,3,Medium,Low Carb
+27,Female,Moderate,Diabetes Management,Indian,Nut-Free,3,Medium,Diabetic-Friendly
+32,Male,High,Muscle Gain,Vegan,None,3,High,Bodybuilder
+29,Female,Low,PCOS Management,Indian,None,3,Medium,PCOS-Friendly
+35,Male,Moderate,Endurance,Indian,Lactose-Free,3,Medium,Balanced
+22,Female,High,Maintenance,Mediterranean,None,3,High,Whole30
+31,Male,Low,Weight Loss,Any,Gluten-Free,3,Medium,Keto
+26,Female,Moderate,Fat Loss,Indian,None,3,Medium,Fat Loss
+38,Male,High,Muscle Gain,Indian,None,3,High,Weight Gain
+23,Female,Low,Endurance,Any,None,3,Medium,Zone Diet
+33,Male,Moderate,Maintenance,Indian,None,3,Medium,Flexitarian
+25,Female,High,Weight Loss,Indian,Gluten-Free,3,Medium,Intermittent Fasting
+34,Male,Low,Diabetes Management,Indian,Nut-Free,3,Low,Diabetic-Friendly
+28,Female,Moderate,PCOS Management,Mediterranean,None,3,Medium,PCOS-Friendly
+37,Male,High,Muscle Gain,Any,None,2,High,Bodybuilder
+24,Female,Low,Fat Loss,Indian,Gluten-Free,3,Low,Paleo
+30,Male,Moderate,Endurance,Indian,None,3,Medium,Endurance Athlete
+26,Female,High,Maintenance,Asian,None,3,High,Balanced
+32,Male,Low,Weight Loss,Mediterranean,None,3,Medium,Fat Loss
+29,Female,Moderate,Diabetes Management,Indian,Nut-Free,3,Medium,Diabetic-Friendly
+35,Male,High,Muscle Gain,Indian,None,3,High,High Protein
+21,Female,Low,PCOS Management,Indian,None,3,Medium,PCOS-Friendly
+31,Male,Moderate,Endurance,Any,None,3,Medium,Zone Diet
+27,Female,High,Maintenance,Mediterranean,None,3,High,Whole30
+33,Male,Low,Weight Loss,Indian,Gluten-Free,3,Low,Low Carb
+23,Female,Moderate,Fat Loss,Indian,None,3,Medium,Fat Loss
+36,Male,High,Muscle Gain,Vegan,None,3,High,Bodybuilder
+28,Female,Low,Endurance,Indian,Lactose-Free,3,Medium,Balanced
+34,Male,Moderate,Maintenance,Asian,None,3,Medium,Balanced
+25,Female,High,Weight Loss,Any,None,3,Medium,Keto
+30,Male,Low,Diabetes Management,Indian,None,3,Low,Diabetic-Friendly
+22,Female,Moderate,PCOS Management,Indian,Nut-Free,3,Medium,PCOS-Friendly
+38,Male,High,Muscle Gain,Indian,None,2,High,Weight Gain
+26,Female,Low,Fat Loss,Mediterranean,Gluten-Free,3,Low,Paleo
+32,Male,Moderate,Endurance,Indian,None,3,Medium,Endurance Athlete
+29,Female,High,Maintenance,Any,None,3,High,Flexitarian
+31,Male,Low,Weight Loss,Indian,None,3,Medium,Intermittent Fasting
+24,Female,Moderate,Diabetes Management,Indian,Nut-Free,3,Medium,Diabetic-Friendly
+35,Male,High,Muscle Gain,Asian,None,3,High,High Protein
+27,Female,Low,PCOS Management,Indian,None,3,Medium,PCOS-Friendly
+33,Male,Moderate,Endurance,Mediterranean,None,3,Medium,Zone Diet
+21,Female,High,Maintenance,Indian,None,3,High,Whole30
+37,Male,Low,Weight Loss,Any,Gluten-Free,3,Low,Intermittent Fasting
+28,Female,Moderate,Fat Loss,Indian,None,3,Medium,Fat Loss
+30,Male,High,Muscle Gain,Indian,None,3,High,Bodybuilder
+23,Female,Low,Endurance,Any,None,3,Medium,Balanced
+34,Male,Moderate,Maintenance,Mediterranean,None,3,Medium,Flexitarian
+26,Female,High,Weight Loss,Indian,Gluten-Free,3,Medium,Low Carb
+32,Male,Low,Diabetes Management,Indian,Nut-Free,3,Low,Diabetic-Friendly
+29,Female,Moderate,PCOS Management,Indian,None,3,Medium,PCOS-Friendly
+36,Male,High,Muscle Gain,Vegan,None,2,High,High Protein
+25,Female,Low,Fat Loss,Indian,Gluten-Free,3,Low,Paleo
+31,Male,Moderate,Endurance,Indian,Lactose-Free,3,Medium,Endurance Athlete
+22,Female,High,Maintenance,Asian,None,3,High,Balanced
+35,Male,Low,Weight Loss,Mediterranean,None,3,Medium,Keto
+27,Female,Moderate,Diabetes Management,Indian,Nut-Free,3,Medium,Diabetic-Friendly
+33,Male,High,Muscle Gain,Indian,None,3,High,Weight Gain
+24,Female,Low,PCOS Management,Indian,None,3,Medium,PCOS-Friendly
+38,Male,Moderate,Endurance,Any,None,3,Medium,Zone Diet
+28,Female,High,Maintenance,Mediterranean,None,3,High,Whole30
+30,Male,Low,Weight Loss,Indian,Gluten-Free,3,Low,Fat Loss
+26,Female,Moderate,Fat Loss,Indian,None,3,Medium,Paleo
+34,Male,High,Muscle Gain,Asian,None,3,High,Bodybuilder
+23,Female,Low,Endurance,Indian,None,3,Medium,Balanced
+32,Male,Moderate,Maintenance,Any,None,3,Medium,Flexitarian
+29,Female,High,Weight Loss,Mediterranean,Gluten-Free,3,Medium,Intermittent Fasting
+37,Male,Low,Diabetes Management,Indian,None,3,Low,Diabetic-Friendly
+21,Female,Moderate,PCOS Management,Indian,Nut-Free,3,Medium,PCOS-Friendly
+35,Male,High,Muscle Gain,Indian,None,2,High,High Protein
